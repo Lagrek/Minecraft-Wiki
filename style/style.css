@@ -1,7 +1,8 @@
 body{
-background-color: gray;
 margin: 0;
 padding: 0;
+background-image: url(../Viktorov_Dmitriev/fon.png);
+background-size: 1920px 1080px;
 }
 header{
     width: 100%;
@@ -43,6 +44,7 @@ header{
     color: lime;
      border-style: outset;
     float:left;
+
  
 }
 .fff {
@@ -53,6 +55,8 @@ header{
     color: yellow;
     border-radius: 10px;
     float:left;
+    opacity: 0.7;
+    filter: alpha(Opacity=70);
     
    
     
@@ -66,6 +70,9 @@ header{
     color: yellow;
     border-radius: 10px;
     float:left;
+    opacity: 0.7;
+    filter: alpha(Opacity=70);
+
     
     
 }
@@ -73,11 +80,15 @@ header{
 .tor {
     width: 19.4%;
     height: 700px;
-    background-color: #00015C;
+    background-color: white;
     float: right; 
     color: yellow;
     border-radius: 10px;
     float:left;
+    opacity: 0.7;
+    filter: alpha(Opacity=70);
+    
+  
    
     
 }
@@ -132,5 +143,5 @@ a {
 position: absolute;
 margin-left: 100px; 
 text-decoration: none;
-text-align: center;
 }
+
