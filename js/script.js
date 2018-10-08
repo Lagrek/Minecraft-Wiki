@@ -1,3 +1,79 @@
+/*var s = function () {
+var o = prompt ('Первая строка')	
+var u = prompt ('Вторая строка')
+var p = prompt ('Третья строка')
+var  total_str = o+" _ "+u+" _ "+p;
+return total_str;
+}
+var a = function ()
+{
+var o = prompt ('Первая строка')	
+var u = prompt ('Вторая строка') 
+if (o===u)
+console.log(o.toUpperCase() === u.toUpperCase());
+else 
+console.log(o.toUpperCase() != u.toUpperCase());	
+}
+//var tmp_str = s();
+//console.log (tmp_str);
+
+a();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*var i=0;
 var a=50;
 var sum=0;
@@ -13,7 +89,7 @@ console.log (sum);
 
 
    
-  var a= {};
+ /* var a= {};
     a.svr1=1,
     a.svr2=50,
     a.svr3="world"
@@ -24,7 +100,7 @@ console.log (sum);
     console.log (b);
     console.log (a[b]);
   }
-
+*/
 
  
 

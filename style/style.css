@@ -102,7 +102,9 @@ color:#fff;
     height: 700px;
     background-color: white;
     float: right; 
-    color: yellow;
+    color: black;
+    
+    font-family: 'Mali', cursive;
     border-radius: 10px;
     float:left;
     opacity: 0.7;
@@ -122,45 +124,61 @@ color:#fff;
     float:left;
     opacity: 0.7;
     filter: alpha(Opacity=70);
-    
+    }
+ .scr {
+    padding-left: 0%;
+ }   
   
    
     
 }
-.for {
-    width: 15%;
-    height: 60px;
-    background-color: lime;
-    float: right; 
-    color: yellow;
-    border-radius: 1000px;
-    position: absolute;
-    margin-top: 200px;
-    margin-left: 40px;  
-}
-.lor {
-    width: 15%;
-    height: 60px;
-    background-color: lime;
-    float: right; 
-    color: yellow;
-    border-radius: 1000px;
-    position: absolute;
-    margin-top: 300px;
-    margin-left: 40px; 
-}
+/*.for {
+/*    width: 15%;
+/*    height: 60px;
+/*    background-color: lime;
+/*    float: right; 
+/*    color: yellow;
+/*    border-radius: 1000px;
+/*    position: absolute;
+/*    margin-top: 200px;
+/*    margin-left: 40px;
+/*    transform: scaleX(0.7);  
+/*     transform: scaleY(0.7);
+/*}
+/*.lor {
+/*    width: 15%;
+/*    height: 60px;
+/*    background-color: lime;
+/*    float: right; 
+/*    color: yellow;
+/*    border-radius: 1000px;
+/*    position: absolute;
+/*    margin-top: 300px;
+/*    margin-left: 40px; 
+/*
+/*}
+/*
+/*.vor {
+/*    width: 15%;
+/*    height: 60px;
+/*    background-color: lime;
+/*    float: right; 
+/*    color: yellow;
+/*    border-radius: 1000px;
+/*    position: absolute;
+/*    margin-top: 400px;
+/*    margin-left: 40px;  
+/*    -moz-transform: rotate(1deg);
+/*    -ms-transform: rotate(5deg); 
+/*    -webkit-transform: rotate(10deg); 
+/*    -o-transform: rotate(6deg); 
+/*    transform: rotate(15deg);  
+/*}
+*/
+footer{
+     color: lime;
+} 
 
-.vor {
-    width: 15%;
-    height: 60px;
-    background-color: lime;
-    float: right; 
-    color: yellow;
-    border-radius: 1000px;
-    position: absolute;
-    margin-top: 400px;
-    margin-left: 40px;    
-}
 .st_for_txt {
     text-align: center;
     text-transform: uppercase;
