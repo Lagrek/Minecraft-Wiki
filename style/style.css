@@ -1,166 +1,90 @@
 html {
-overflow: scroll;    
-    
-    }
+
+     }
 
 body{
     margin: 0;
     padding: 0;
-    background-image: url(../Lagrek/fon.png);
+    background-image: url(../Lagrek/spidy.jpg);
     background-repeat: no-repeat;
     background-size: 1920px 1080px;
- }   
-.form-group {
-    position: relative;
-    padding-top: 1.5rem;
-}
-
-
-}
-
+    }   
 header{
-     width: 100%;
-     height: 100px;
-     float: left;
-     margin-left: 850px;
-
-
-}
-a.glo{
- color:lime;
- padding: 10px 20px;
- width:100px;
- text-decoration:none;
- text-align:center;
- display: block;
- background-image: linear-gradient(to left,transparent,transparent 50%, #354d73 50%, lime);
- background-position: 100% 0;
- background-size: 200% 100%;
- transition: all .25s ease-in;
- font: 400 18px tahoma;
- border: 1px solid #333567 ;
- margin-left:200px;  
-}
-a.glo:hover {
-background-position: 0 0;
-color:#fff;
-}
-.myclass {
-    width: 19%;
-    height: 60px;
-    background-color: #333567;
-    float: left;
-    color: lime;
-    border-style: outset;
-    opacity: 0.5;
-    filter: alpha(Opacity=70);
-}
-
-.other {
-    width: 61%;
-    height: 60px;
-    background-color:#333567 ;
-    float: left;
-    color: lime;
-     border-style: outset;
-    float:left;
-     opacity: 0.5;
-    filter: alpha(Opacity=70);
-   
-}
-.lll {
-    width: 19%;
-    height: 60px;
-    background-color: #333567;
-    float: right; 
-    color: lime;
-     border-style: outset;
-    float:left;
-     opacity: 0.5;
-    filter: alpha(Opacity=70);
-
- 
-}
-.fff {
-    width: 19.4%;
-    height: 700px;
-    background-color: #333567;
-    float: right; 
-    color: yellow;
-    border-radius: 10px;
-    float:left;
-    opacity: 0.7;
-    filter: alpha(Opacity=70);
-
-    
-   
-    
-}
-
-.bor {
-    width: 61.2%;
-    height: 700px;
-    background-color: white;
-    float: right; 
-    color: black;
-    
-    font-family: 'Mali', cursive;
-    border-radius: 10px;
-    float:left;
-    opacity: 0.7;
-    filter: alpha(Opacity=70);    
-     }
-
-.tor {
-    width: 19.4%;
-    height: 700px;
-    background-color: white;
-    float: right; 
-    color: yellow;
-    border-radius: 10px;
-    float:left;
-    opacity: 0.7;
-    filter: alpha(Opacity=70);
+  width: 85%;
+  height: 150px;
+  margin-top: 20px;
+  margin-left: 135px;
+  background-color: #ab0949;
+  opacity: 0.7;
+  filter: alpha (opacity=70);
+  position: absolute; 
     }
-.scr {
-    padding-left: 0%;
-     } 
-
-.button1{
-    width: 368px;
-    height: 62px;
-    z-index:4;
-    background-color: red;
-    border-radius: 100px;
-        }  
-
-.text1{
-    width:100%;
-    height: 216px;
-    background-color:#324ab2;
-    position:absolute;
-    opacity: 0.6;
-    filter: alpha(Opacity=70);
-      }
-
-footer{
-     color: lime;
+.logo {
+    width:120px;
+    height: 150px;
+    background-image: url(../Lagrek/logo1.jpg);
+}
+.tlogo {
+    width: 150px;
+    height: 150px; 
+    background-color:#ab0949;  
+    position: relative;
+    bottom: 170px;
+    left: 680px;
+    width: 308px;
+    height: 29px;
+    color: #206bac;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Patua One', cursive;
+}
+.b1{
+    width:200px;
+    height: 25px;
+    position: relative;
+    left:500px;
+    bottom: 65px;
+    border-radius: 10px;
+    background-color: gray;
+}
+.b2{
+    width:200px;
+    height: 25px; 
+    position: relative;
+    left:750px;
+    bottom: 90px;
+     border-radius: 10px;
+       background-color: gray;
+}
+.b3{
+    width:200px;
+    height: 25px;
+    background-color: gray;
+    position: relative;
+    left:1000px;
+    bottom: 115px;
+     border-radius: 10px;
+      text-align: center;
+    text-transform: uppercase;
+    font-family: 'Patua One', cursive;
 } 
-
+.oBlock{
+    width: 70%;
+    height: 500px;
+    background-color: #a8a8a8;
+   position: relative;
+   left:300px;
+   top:200px;
+   opacity: 0.6;
+     filter: alpha (opacity=70);
+}
+.block1{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+   }
 .st_for_txt {
     text-align: center;
     text-transform: uppercase;
-    font-family: 'Mali', cursive;
-
-}
-h1:hover {
-background: lime;   
-color: #8158DA;
-}
-
-a {
-  position: absolute;
-  margin-left: 100px; 
-  text-decoration: none;
-}
-
+    font-family: 'Patua One', cursive;
+            }

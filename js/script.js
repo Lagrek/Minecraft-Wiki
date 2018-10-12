@@ -1,4 +1,4 @@
-var s = function (str){
+/*var s = function (str){
     var bar = str.slice(4)
     return bar;
                       }
@@ -19,7 +19,7 @@ var o = function (str){
 	var tort = str.substring (1,5)
 	return tort;
                       }
-console.log (o("Индастриз"));
+//console.log (o("Индастриз"));
 
 var e = function (str){
 	var bus = str.slice (-3)
@@ -62,6 +62,7 @@ var p = function (str){
 	return thunder;
                       }                  
 console.log (p("Веном"))
+*//
 
 
 
@@ -197,26 +198,7 @@ console.log (p("Веном"))
 
 
 
-/*var s = function () {
-var o = prompt ('Первая строка')	
-var u = prompt ('Вторая строка')
-var p = prompt ('Третья строка')
-var  total_str = o+" _ "+u+" _ "+p;
-return total_str;
-}
-var a = function ()
-{
-var o = prompt ('Первая строка')	
-var u = prompt ('Вторая строка') 
-if (o===u)
-console.log(o.toUpperCase() === u.toUpperCase());
-else 
-console.log(o.toUpperCase() != u.toUpperCase());	
-}
-//var tmp_str = s();
-//console.log (tmp_str);
 
-a();
 
 
 
@@ -274,33 +256,6 @@ a();
 
 
 
-/*var i=0;
-var a=50;
-var sum=0;
-do {
-i=i+2;
-console.log (a);
-sum=a+sum;
-}
-while (i<=a)
-console.log (sum);
-*/
-
-
-
-   
- /* var a= {};
-    a.svr1=1,
-    a.svr2=50,
-    a.svr3="world"
-    a.svr4="sirop"
-  
-
-  for (var b in a ){
-    console.log (b);
-    console.log (a[b]);
-  }
-*/
 
  
 
@@ -308,19 +263,11 @@ console.log (sum);
 
 
 
-//var a=1;
-//    b=11;
-//    while (a<b) {
-//    sum=a+b; 
-//    a++
-//    console.log ("element",a);
-//    a++
-//  }
 
 
 
 
-
+*/
 //var c=4;
 //    sum1=1;
 //switch(1) 
@@ -346,3 +293,4 @@ console.log (sum);
 //             }
 //}
 
+/*
