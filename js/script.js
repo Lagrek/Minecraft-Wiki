@@ -1,4 +1,32 @@
-var s = function (str){
+var arr = [3, 2, 1];
+var str = arr.join('-');
+console.log (str);
+
+var a = [3, 2, 1];
+var gf = a.reverse('-');
+console.log (gf);
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*var s = function (str){
     var bar = str.slice(4)
     return bar;
                       }
@@ -62,122 +90,6 @@ var p = function (str){
 	return thunder;
                       }                  
 console.log (p("Веном"))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

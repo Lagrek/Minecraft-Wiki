@@ -9,13 +9,6 @@ body{
     background-image: url(../Lagrek/fon.png);
     background-repeat: no-repeat;
     background-size: 1920px 1080px;
- }   
-.form-group {
-    position: relative;
-    padding-top: 1.5rem;
-}
-
-
 }
 
 header{
@@ -23,144 +16,9 @@ header{
      height: 100px;
      float: left;
      margin-left: 850px;
-
-
 }
-a.glo{
- color:lime;
- padding: 10px 20px;
- width:100px;
- text-decoration:none;
- text-align:center;
- display: block;
- background-image: linear-gradient(to left,transparent,transparent 50%, #354d73 50%, lime);
- background-position: 100% 0;
- background-size: 200% 100%;
- transition: all .25s ease-in;
- font: 400 18px tahoma;
- border: 1px solid #333567 ;
- margin-left:200px;  
-}
-a.glo:hover {
-background-position: 0 0;
-color:#fff;
-}
-.myclass {
-    width: 19%;
-    height: 60px;
-    background-color: #333567;
-    float: left;
-    color: lime;
-    border-style: outset;
-    opacity: 0.5;
-    filter: alpha(Opacity=70);
-}
-
-.other {
-    width: 61%;
-    height: 60px;
-    background-color:#333567 ;
-    float: left;
-    color: lime;
-     border-style: outset;
-    float:left;
-     opacity: 0.5;
-    filter: alpha(Opacity=70);
-   
-}
-.lll {
-    width: 19%;
-    height: 60px;
-    background-color: #333567;
-    float: right; 
-    color: lime;
-     border-style: outset;
-    float:left;
-     opacity: 0.5;
-    filter: alpha(Opacity=70);
-
- 
-}
-.fff {
-    width: 19.4%;
-    height: 700px;
-    background-color: #333567;
-    float: right; 
-    color: yellow;
-    border-radius: 10px;
-    float:left;
-    opacity: 0.7;
-    filter: alpha(Opacity=70);
-
-    
-   
-    
-}
-
-.bor {
-    width: 61.2%;
-    height: 700px;
-    background-color: white;
-    float: right; 
-    color: black;
-    
-    font-family: 'Mali', cursive;
-    border-radius: 10px;
-    float:left;
-    opacity: 0.7;
-    filter: alpha(Opacity=70);    
-     }
-
-.tor {
-    width: 19.4%;
-    height: 700px;
-    background-color: white;
-    float: right; 
-    color: yellow;
-    border-radius: 10px;
-    float:left;
-    opacity: 0.7;
-    filter: alpha(Opacity=70);
-    }
-.scr {
-    padding-left: 0%;
-     } 
-
-.button1{
-    width: 368px;
-    height: 62px;
-    z-index:4;
-    background-color: red;
-    border-radius: 100px;
-        }  
-
-.text1{
-    width:100%;
-    height: 216px;
-    background-color:#324ab2;
-    position:absolute;
-    opacity: 0.6;
-    filter: alpha(Opacity=70);
-      }
-
-footer{
-     color: lime;
-} 
-
 .st_for_txt {
     text-align: center;
     text-transform: uppercase;
     font-family: 'Mali', cursive;
-
 }
-h1:hover {
-background: lime;   
-color: #8158DA;
-}
-
-a {
-  position: absolute;
-  margin-left: 100px; 
-  text-decoration: none;
-}
-
