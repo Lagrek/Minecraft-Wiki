@@ -1,3 +1,81 @@
+/*
+$(document).ready(function(){
+$("tlogo").add("h1").css("background-color","green")
+    $("#f1").click(function(){
+      $("#par1").remove();
+        $("#f2").click(function(){
+      $("h1").remove();
+   });
+   $("#f3").click(function(){
+      $("p").remove();
+   });
+   });
+    });
+$(document).ready(function(){
+$(":button").click(function(){
+     $(":button").hide();
+  });
+   });
+
+$(document).ready(function(){
+$("#p1").mouseover(function(){
+     $(this).css("color","lime");
+      });
+     $("#p1").mouseout(function(){
+     $(this).css("color","black");
+  });
+  });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*var s = function (str){
     var bar = str.slice(4)
     return bar;
@@ -62,7 +140,7 @@ var p = function (str){
 	return thunder;
                       }                  
 console.log (p("Веном"))
-*//
+*/
 
 
 
@@ -267,30 +345,3 @@ console.log (p("Веном"))
 
 
 
-*/
-//var c=4;
-//    sum1=1;
-//switch(1) 
-//{
-//          case 1:{
-//             if(sum1<c);
-//       console.log("Yes");
-//         else
-//       console.log("No");
-//         break; 
-//             }
-//       case 2:{
-//             console.log ("Kornelii");
-//         break; 
-//             }
-//       case 3:{
-//             console.log ("Vodomir");
-//         break; 
-//             }
-//        default:{
-//             console.log ("I don't know");
-//         break; 
-//             }
-//}
-
-/*
