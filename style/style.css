@@ -38,40 +38,19 @@ header{
     text-transform: uppercase;
     font-family: 'Patua One', cursive;
 }
-.b1{
-    width:200px;
-    height: 25px;
+.mBlock{
+    width:800px;
+    height: 35px;
     position: relative;
-    left:500px;
-    bottom: 65px;
-    border-radius: 10px;
-    background-color: gray;
+    left:450px;
+    bottom: 75px;
+    background-color: #414a4c;
 }
-.b2{
-    width:200px;
-    height: 25px; 
-    position: relative;
-    left:750px;
-    bottom: 90px;
-     border-radius: 10px;
-       background-color: gray;
-}
-.b3{
-    width:200px;
-    height: 25px;
-    background-color: gray;
-    position: relative;
-    left:1000px;
-    bottom: 115px;
-     border-radius: 10px;
-      text-align: center;
-    text-transform: uppercase;
-    font-family: 'Patua One', cursive;
-} 
+
 .oBlock{
     width: 70%;
     height: 500px;
-    background-color: #a8a8a8;
+    background-color: #414a4c;
    position: relative;
    left:300px;
    top:200px;
@@ -93,3 +72,10 @@ header{
     display: none;
     
 }
+.slider{
+  width: 300px;
+  height: 150px;
+  border:1px solid red;
+  margin: 0 auto;
+}
+

@@ -1,3 +1,75 @@
+$(document).ready(function(){
+$('.slider').bxSlider({
+mode: 'horizontal',
+controls: true,
+auto: true,
+captions: true,
+
+});
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//fefe = {
+//    id : 1,
+//    name : "denito Benito Deltorio",
+//    boolval : true,
+//    ffaf : function()
+//    {
+//        return this.name;
+//    }
+//}
+// console.log (fefe);
+
+
+
+
+
+
+
 /*
 $(document).ready(function(){
 $("tlogo").add("h1").css("background-color","green")
