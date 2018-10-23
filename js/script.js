@@ -1,21 +1,39 @@
 $(document).ready(function(){
 $('.slider').bxSlider({
-mode: 'horizontal',
-controls: true,
 auto: true,
-captions: true,
-
+autoControls: true,
+stopAutoOnClick: true,
+pager: true,
+slideWidth: 300
 });
 });
 
+function move() {
+console.log("Пипидастр Паша")
+}
+ 
+ function keyPress() {
+console.log("Пи-Пша")
+}
 
+function keyUp() {
+console.log("ППша")
+}
 
+function mouseUp() {
+alert("Need For SPIDil7y ") 
+}
 
+function mouseOver() {
+console.log("ША-ША")
+}
 
-
-
-
-
+function keyDown(){
+console.log ("55235")
+ }
+ function onFocus(){
+  
+ }
 
 
 

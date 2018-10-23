@@ -1,14 +1,11 @@
-html {
-
-     }
-
 body{
-    margin: 0;
-    padding: 0;
-    background-image: url(../Lagrek/spidy.jpg);
-    background-repeat: no-repeat;
-    background-size: 1920px 1080px;
-    }   
+  margin: 0;
+  padding: 0;
+  background-image: url(../Lagrek/spidy.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+    }  
+
 header{
   width: 85%;
   height: 150px;
@@ -18,60 +15,65 @@ header{
   opacity: 0.7;
   filter: alpha (opacity=70);
   position: absolute; 
-    }
+      }
+
 .logo {
-    width:120px;
-    height: 150px;
-    background-image: url(../Lagrek/logo1.jpg);
-}
+  width:120px;
+  height: 150px;
+  background-image: url(../Lagrek/logo1.jpg);
+      }
+
 .tlogo {
-    width: 150px;
-    height: 150px; 
-    background-color:black;  
-    position: relative;
-    bottom: 170px;
-    left: 680px;
-    width: 308px;
-    height: 29px;
-    color: red;
-    text-align: center;
-    text-transform: uppercase;
-    font-family: 'Patua One', cursive;
-}
+  width: 150px;
+  height: 150px; 
+  background-color:black;  
+  position: relative;
+  bottom: 170px;
+  left: 680px;
+  width: 308px;
+  height: 29px;
+  color: red;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Patua One', cursive;
+        }
 .mBlock{
-    width:800px;
-    height: 35px;
-    position: relative;
-    left:450px;
-    bottom: 75px;
-    background-color: #414a4c;
-}
+  width:800px;
+  height: 35px;
+  position: relative;
+  left:450px;
+  bottom: 75px;
+  background-color: #414a4c;
+      }
 
 .oBlock{
-    width: 70%;
-    height: 500px;
-    background-color: #414a4c;
-   position: relative;
-   left:300px;
-   top:200px;
-   opacity: 0.6;
-     filter: alpha (opacity=70);
-}
+  width: 70%;
+  height: 500px;
+  background-color: #414a4c;
+  position: relative;
+  left:300px;
+  top:200px;
+  opacity: 0.6;
+  filter: alpha (opacity=70);
+        }
+
 .block1{
-    width: 200px;
-    height: 200px;
-    background-color: black;
-   }
+  width: 200px;
+  height: 200px;
+  background-color: black;
+       }
+
 .st_for_txt {
-    text-align: center;
-    text-transform: uppercase;
-    font-family: 'Patua One', cursive;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Patua One', cursive;
             }
+
 #txt1{
-    border-color:black;
-    display: none;
-    
-}
+  border-color:black;
+  display: none;  
+            }
+
 .slider{
   width: 300px;
   height: 150px;
@@ -79,3 +81,18 @@ header{
   margin: 0 auto;
 }
 
+  @media all (min-width: 500px){
+  
+body{
+    background-size: 800px 600px;
+ }
+
+header{
+  width: 80%;
+  height: 100px;
+}
+
+.oBlock{
+  width: 70%;
+  height: 250px;
+}
